@@ -24,13 +24,5 @@ also. By making auction through this application will help to reach maximum of b
 in local area. There will be a feature where bidder and seller can message each other.
 
 
-Software Requirement
-1. Microsoft window o/s
-2. HTML
-3. PHP/MySQLi
-4. JavaScript(Ajax/jQuery)
-5. CSS
-6. Bootstrap
-
 
 
